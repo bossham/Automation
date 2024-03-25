@@ -39,7 +39,7 @@ for indicator_code in indicator_codes:
 
 
         # 파일 저장 경로 설정
-        folder_path = 'C:/Users/정지현/automation/WB_Data'
+        folder_path = 'C:/Users/정지현/automation/WB_API/WB_Data'
         csv_file_name = f'{indicator_code}.csv'
         csv_file_path = os.path.join(folder_path, csv_file_name)
 

@@ -66,6 +66,9 @@ pydantic==2.5.3
 pydantic_core==2.14.6
 Pygments==2.17.2
 pyparsing==3.1.1
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2024.1
@@ -90,5 +93,6 @@ tzdata==2023.4
 urllib3==2.1.0
 virtualenv==20.25.0
 wcwidth==0.2.12
+xlrd==2.0.1
 xmltodict==0.13.0
 yarl==1.9.4
